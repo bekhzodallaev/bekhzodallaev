@@ -4,8 +4,8 @@
  
  <code> <img src="https://banner2.cleanpng.com/20180802/tpl/kisspng-logo-html5-brand-clip-art-%E6%9D%89-%E5%B1%B1-%E8%89%AF-%E9%9B%84-5b62be01b565d5.334247781533197825743.jpg" width="25px" > </code>
   <code> <img src="https://banner2.cleanpng.com/20180428/hdw/kisspng-web-development-cascading-style-sheets-css3-html-5ae480842a86a5.9529807215249245481742.jpg" width="25px" > </code>
-   <code> <img src="https://banner2.cleanpng.com/20180513/eiw/kisspng-javascript-node-js-logo-computer-programming-progr-5af871b4831445.9234603315262314765369.jpg" width="25px" > </code>
-    <code> <img src="https://cdn3.freelogovectors.net/wp-content/uploads/2019/02/sasslogo.png" width="25px" > </code>
+   <code> <img src="https://banner2.cleanpng.com/20180513/eiw/kisspng-javascript-node-js-logo-computer-programming-progr-5af871b4831445.9234603315262314765369.jpg" width="30px" > </code>
+    <code> <img src="https://cdn3.freelogovectors.net/wp-content/uploads/2019/02/sasslogo.png" width="30px" > </code>
      <code> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1280px-Bootstrap_logo.svg.png" width="25px" > </code>
-         <code> <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" width="25px" > </code>
+         <code> <img src="https://banner2.cleanpng.com/20180512/fsq/kisspng-react-javascript-library-github-5af70e3c30fa08.4665072115261404762006.jpg" width="25px" > </code>
 
