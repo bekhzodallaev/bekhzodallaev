@@ -8,5 +8,5 @@
     <code> <img src="https://cdn3.freelogovectors.net/wp-content/uploads/2019/02/sasslogo.png" width="30px" > </code>
      <code> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1280px-Bootstrap_logo.svg.png" width="25px" > </code>
          <code> <img src="https://banner2.cleanpng.com/20180512/fsq/kisspng-react-javascript-library-github-5af70e3c30fa08.4665072115261404762006.jpg" width="25px" > </code>
- <code> <img src="https://assets.stickpng.com/thumbs/62c536ab3a321dd181302f81.png" width="30px" > </code>
-  <code> <img src="https://www.logo.wine/a/logo/MySQL/MySQL-Logo.wine.svg" width="30px" > </code>
+ <code> <img src="https://banner2.cleanpng.com/20180511/zie/kisspng-redux-react-javascript-vue-js-single-page-applicat-5af5cde3d3a5e8.2671715915260584678669.jpg" width="30px" > </code>
+  <code> <img src="https://upload.wikimedia.org/wikipedia/de/thumb/d/dd/MySQL_logo.svg/2560px-MySQL_logo.svg.png" width="30px" > </code>
