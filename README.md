@@ -2,6 +2,6 @@
  I am  an active student who is pursuing his dreams to make them come true as well as i am doing a lot of self-study and working on many projects to put my knowledge into practice 🙂🙂.<br>
  ### Languages and tools I work with: 
  
- <code> <img src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-image-logo-html-7.png" width = "25px" > </code>
+ <code> <img src="https://assets.stickpng.com/images/5847f5bdcef1014c0b5e489c.png" > </code>
  
 
