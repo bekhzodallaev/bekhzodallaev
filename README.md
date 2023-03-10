@@ -4,7 +4,7 @@
  
  <code> <img src="https://banner2.cleanpng.com/20180802/tpl/kisspng-logo-html5-brand-clip-art-%E6%9D%89-%E5%B1%B1-%E8%89%AF-%E9%9B%84-5b62be01b565d5.334247781533197825743.jpg" width="25px" > </code>
   <code> <img src="https://cdn.freebiesupply.com/logos/large/2x/css3-logo-png-transparent.png" width="25px" > </code>
-   <code> <img src="https://banner2.cleanpng.com/20180802/tpl/kisspng-logo-html5-brand-clip-art-%E6%9D%89-%E5%B1%B1-%E8%89%AF-%E9%9B%84-5b62be01b565d5.334247781533197825743.jpg" width="25px" > </code>
-    <code> <img src="https://banner2.cleanpng.com/20180802/tpl/kisspng-logo-html5-brand-clip-art-%E6%9D%89-%E5%B1%B1-%E8%89%AF-%E9%9B%84-5b62be01b565d5.334247781533197825743.jpg" width="25px" > </code>
+   <code> <img src="https://www.freepnglogos.com/uploads/javascript-png/javascript-logo-transparent-logo-javascript-images-3.png" width="25px" > </code>
+    <code> <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" width="25px" > </code>
  
 
