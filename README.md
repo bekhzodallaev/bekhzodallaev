@@ -11,5 +11,7 @@
  <code> <img src="https://banner2.cleanpng.com/20180511/zie/kisspng-redux-react-javascript-vue-js-single-page-applicat-5af5cde3d3a5e8.2671715915260584678669.jpg" width="30px" > </code>
   <code> <img src="https://upload.wikimedia.org/wikipedia/de/thumb/d/dd/MySQL_logo.svg/2560px-MySQL_logo.svg.png" width="30px" > </code>
   <code> <img src="https://www.svgrepo.com/show/374144/typescript.svg" width="30px" > </code>
+    <code> <img src="https://miro.medium.com/v2/resize:fit:900/1*TY9uBBO9leUbRtlXmQBiug.png" width="30px" > </code>
+
   - 📍 &nbsp; Current Location : Warsaw, Poland
   -  📝 &nbsp; If you have any questions, don't hesitate to contact me!
