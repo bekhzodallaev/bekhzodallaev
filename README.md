@@ -10,7 +10,7 @@
          <code> <img src="https://banner2.cleanpng.com/20180512/fsq/kisspng-react-javascript-library-github-5af70e3c30fa08.4665072115261404762006.jpg" width="25px" > </code>
  <code> <img src="https://banner2.cleanpng.com/20180511/zie/kisspng-redux-react-javascript-vue-js-single-page-applicat-5af5cde3d3a5e8.2671715915260584678669.jpg" width="30px" > </code>
   <code> <img src="https://upload.wikimedia.org/wikipedia/de/thumb/d/dd/MySQL_logo.svg/2560px-MySQL_logo.svg.png" width="30px" > </code>
-  <code>https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3ATypescript_logo_2020.svg&psig=AOvVaw1mFv68StCbET1CvqC6-fwL&ust=1711480201569000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOiT9eiOkIUDFQAAAAAdAAAAABAJ</code>
+  <code> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3ATypescript_logo_2020.svg&psig=AOvVaw1mFv68StCbET1CvqC6-fwL&ust=1711480201569000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOiT9eiOkIUDFQAAAAAdAAAAABAJ" width="30px"> </code>
   <br>
   - 📍 &nbsp; Current Location : Warsaw, Poland
   -  📝 &nbsp; If you have any questions, don't hesitate to contact me!
