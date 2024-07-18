@@ -15,5 +15,5 @@
 
   - 📍 &nbsp; Current Location : Warsaw, Poland
   -  📝 &nbsp; If you have any questions, don't hesitate to contact me!
-  -  ![TestGIF (2)](https://github.com/user-attachments/assets/57cdae44-06e2-4761-9076-2268b9cd3be9) :https://www.linkedin.com/in/bekallaev/
-
+  - Linkedin: https://www.linkedin.com/in/bekallaev/.
+  - Email: bekhzodallayev@gmail.com
