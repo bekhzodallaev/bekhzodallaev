@@ -17,3 +17,8 @@
   -  📝 &nbsp; If you have any questions, don't hesitate to contact me!
   - Linkedin: https://www.linkedin.com/in/bekallaev/.
   - Email: bekhzodallayev@gmail.com
+### 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bekhzodallaev&show_icons=true&theme=radical)
+
+### 🏆 Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bekhzodallaev&layout=compact&theme=radical)
