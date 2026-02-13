@@ -1,25 +1,83 @@
-### Hi, I'm Bekhzod Allaev <img src="https://media3.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif?cid=ecf05e47z7jje69ntu2t5x3ntdmrhcv385nm8ietdr54u36f&rid=giphy.gif&ct=s" width="50px"> 
- Welcome to my github profile. I'm a passioned software engineer who loves solving real world problems.<br>
- ### Languages and tools I work with: 
- 
- <code> <img src="https://banner2.cleanpng.com/20180802/tpl/kisspng-logo-html5-brand-clip-art-%E6%9D%89-%E5%B1%B1-%E8%89%AF-%E9%9B%84-5b62be01b565d5.334247781533197825743.jpg" width="25px" > </code>
-  <code> <img src="https://banner2.cleanpng.com/20180428/hdw/kisspng-web-development-cascading-style-sheets-css3-html-5ae480842a86a5.9529807215249245481742.jpg" width="25px" > </code>
-   <code> <img src="https://banner2.cleanpng.com/20180513/eiw/kisspng-javascript-node-js-logo-computer-programming-progr-5af871b4831445.9234603315262314765369.jpg" width="35px" > </code>
-    <code> <img src="https://cdn3.freelogovectors.net/wp-content/uploads/2019/02/sasslogo.png" width="30px" > </code>
-     <code> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1280px-Bootstrap_logo.svg.png" width="25px" > </code>
-         <code> <img src="https://banner2.cleanpng.com/20180512/fsq/kisspng-react-javascript-library-github-5af70e3c30fa08.4665072115261404762006.jpg" width="25px" > </code>
- <code> <img src="https://banner2.cleanpng.com/20180511/zie/kisspng-redux-react-javascript-vue-js-single-page-applicat-5af5cde3d3a5e8.2671715915260584678669.jpg" width="30px" > </code>
-  <code> <img src="https://upload.wikimedia.org/wikipedia/de/thumb/d/dd/MySQL_logo.svg/2560px-MySQL_logo.svg.png" width="30px" > </code>
-  <code> <img src="https://www.svgrepo.com/show/374144/typescript.svg" width="30px" > </code>
-    <code> <img src="https://miro.medium.com/v2/resize:fit:900/1*TY9uBBO9leUbRtlXmQBiug.png" width="30px" > </code>
+# Hi, I'm Bekhzod Allaev 👋  
+<img src="https://media3.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif" width="50px" />
 
-  - 📍 &nbsp; Current Location : Warsaw, Poland
-  -  📝 &nbsp; If you have any questions, don't hesitate to contact me!
-  - Linkedin: https://www.linkedin.com/in/bekallaev/.
-  - Email: bekhzodallayev@gmail.com
-### 📊 GitHub Stats
+### 🚀 Software Engineer | Full-Stack | Backend-Focused
+
+Welcome to my GitHub profile!  
+I’m a **passionate software engineer** who enjoys building **scalable, real-world applications**, solving complex problems, and continuously improving code quality and system design.
+
+I focus on **backend & full-stack development**, with strong experience in **modern JavaScript ecosystems**, APIs, databases, and cloud-ready architectures.
+
+---
+
+## 🧠 What I Care About
+- Designing **clean, maintainable systems**
+- Writing **production-ready backend logic**
+- Building **real products**, not just demos
+- Performance, scalability & developer experience
+- Learning how things work **under the hood**
+
+---
+
+## 🛠️ Languages & Tools I Work With
+
+<p align="left">
+  <img src="https://www.svgrepo.com/show/452228/html-5.svg" width="32" />
+  <img src="https://www.svgrepo.com/show/452185/css-3.svg" width="32" />
+  <img src="https://www.svgrepo.com/show/349419/javascript.svg" width="32" />
+  <img src="https://www.svgrepo.com/show/374144/typescript.svg" width="32" />
+  <img src="https://www.svgrepo.com/show/452092/react.svg" width="32" />
+  <img src="https://www.svgrepo.com/show/452093/redux.svg" width="32" />
+  <img src="https://www.svgrepo.com/show/452075/node-js.svg" width="32" />
+  <img src="https://www.svgrepo.com/show/354119/nodejs-icon.svg" width="32" />
+  <img src="https://www.svgrepo.com/show/354200/postgresql.svg" width="32" />
+  <img src="https://www.svgrepo.com/show/373845/mongo.svg" width="32" />
+  <img src="https://www.svgrepo.com/show/452210/git.svg" width="32" />
+</p>
+
+**Also familiar with:**  
+Next.js • REST APIs • Authentication & Sessions • MongoDB Aggregations • SQL • Cloudinary • Docker (basic) • GitHub Actions
+
+---
+
+## 📌 Featured Project Highlights
+
+### 📊 Application Tracking System (ATS)
+A full-stack platform for managing job applications and analytics.
+
+**Key features:**
+- Authentication & secure sessions
+- Application pipeline & status tracking
+- Analytics dashboard (funnels, timelines, metrics)
+- Email (Gmail) integration
+- Cloud-hosted user profile images
+- MongoDB aggregations for statistics
+
+**Tech stack:**  
+Next.js · TypeScript · MongoDB · Cloudinary · REST APIs
+
+---
+
+## 📍 About Me
+- 📍 **Location:** Warsaw, Poland  
+- 💼 Open to * fullstack /frontend / backend-focused roles**
+- 🧩 Strong interest in backend architecture & system design
+- 📝 Always happy to discuss code, architecture, or opportunities
+
+---
+
+## 📬 Contact Me
+- 💼 **LinkedIn:** https://www.linkedin.com/in/bekallaev  
+- 📧 **Email:** bekhzodallayev@gmail.com  
+
+---
+
+## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bekhzodallaev&show_icons=true&theme=radical)
 
-### 🏆 Top Languages
+## 🏆 Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bekhzodallaev&layout=compact&theme=radical)
 
+---
+
+⭐ *If you like my work, feel free to star a repo or reach out — I’m always open to collaboration!*
