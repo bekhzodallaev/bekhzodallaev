@@ -72,11 +72,11 @@ Next.js · TypeScript · MongoDB · Cloudinary · REST APIs
 
 ---
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bekhzodallaev&show_icons=true&theme=radical)
+### 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bekhzodallaev&show_icons=true&theme=radical&count_private=true&cache_seconds=1800)
 
-## 🏆 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bekhzodallaev&layout=compact&theme=radical)
+### 🏆 Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bekhzodallaev&layout=compact&theme=radical&count_private=true&cache_seconds=1800)
 
 ---
 
