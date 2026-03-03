@@ -1,7 +1,7 @@
 # Hi, I'm Bekhzod Allaev 👋  
 <img src="https://media3.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif" width="50px" />
 
-### 🚀 Software Engineer | Full-Stack | Backend-Focused
+### 🚀 Software Engineer | Full-Stack
 
 Welcome to my GitHub profile!  
 I’m a **passionate software engineer** who enjoys building **scalable, real-world applications**, solving complex problems, and continuously improving code quality and system design.
@@ -36,7 +36,7 @@ I focus on **backend & full-stack development**, with strong experience in **mod
 </p>
 
 **Also familiar with:**  
-Next.js • REST APIs • Authentication & Sessions • MongoDB Aggregations • SQL • Cloudinary • Docker (basic) • GitHub Actions
+Next.js • REST APIs • Authentication & Sessions • MongoDB Aggregations • SQL • Cloudinary • Docker • GitHub Actions
 
 ---
 
